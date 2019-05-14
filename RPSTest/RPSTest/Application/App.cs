@@ -44,6 +44,7 @@ namespace RPSTest.Application
 
             Console.WriteLine("GAME ROCK-PAPER-SCISSORS \r\n");
 
+
             while (verificaOpcao == 0)
             {
                 Console.WriteLine("1 - Adicionar Partida");
@@ -114,7 +115,7 @@ namespace RPSTest.Application
                 {
                     if (verificaQuantidade == 0)
                     {
-                        Console.WriteLine("\r\nNenhumJogadorEncontrado");
+                        Console.WriteLine("\r\nNenhum Jogador Encontrado");
                         verificaOpcao = 0;
 
                     }
@@ -135,7 +136,7 @@ namespace RPSTest.Application
                             }
                             else
                             {
-                                Console.WriteLine("EM CONSTRUÇÃO");
+                                Console.WriteLine("EM DESENVOLVIMENTO");
                                 Console.ReadKey();
                                 Environment.Exit(0);
 

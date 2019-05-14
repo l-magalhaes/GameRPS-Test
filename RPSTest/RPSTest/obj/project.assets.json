@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lucaz\\source\\repos\\RPSTest\\RPSTest\\RPSTest.csproj",
+      "projectUniqueName": "C:\\Users\\Lucaz\\Desktop\\Programacao\\Repositorio\\RPSTest\\RPSTest\\RPSTest.csproj",
       "projectName": "RPSTest",
-      "projectPath": "C:\\Users\\Lucaz\\source\\repos\\RPSTest\\RPSTest\\RPSTest.csproj",
+      "projectPath": "C:\\Users\\Lucaz\\Desktop\\Programacao\\Repositorio\\RPSTest\\RPSTest\\RPSTest.csproj",
       "packagesPath": "C:\\Users\\Lucaz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lucaz\\source\\repos\\RPSTest\\RPSTest\\obj\\",
+      "outputPath": "C:\\Users\\Lucaz\\Desktop\\Programacao\\Repositorio\\RPSTest\\RPSTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

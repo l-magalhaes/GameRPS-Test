@@ -9,3 +9,14 @@ C:\Users\Lucaz\source\repos\RPSTest\RPSTest\obj\Debug\netcoreapp2.2\RPSTest.Asse
 C:\Users\Lucaz\source\repos\RPSTest\RPSTest\obj\Debug\netcoreapp2.2\RPSTest.dll
 C:\Users\Lucaz\source\repos\RPSTest\RPSTest\obj\Debug\netcoreapp2.2\RPSTest.pdb
 C:\Users\Lucaz\source\repos\RPSTest\RPSTest\obj\Debug\netcoreapp2.2\RPSTest.csprojAssemblyReference.cache
+C:\Users\Lucaz\Desktop\Programacao\Repositorio\RPSTest\RPSTest\obj\Debug\netcoreapp2.2\RPSTest.csprojAssemblyReference.cache
+C:\Users\Lucaz\Desktop\Programacao\Repositorio\RPSTest\RPSTest\obj\Debug\netcoreapp2.2\RPSTest.csproj.CoreCompileInputs.cache
+C:\Users\Lucaz\Desktop\Programacao\Repositorio\RPSTest\RPSTest\obj\Debug\netcoreapp2.2\RPSTest.AssemblyInfoInputs.cache
+C:\Users\Lucaz\Desktop\Programacao\Repositorio\RPSTest\RPSTest\obj\Debug\netcoreapp2.2\RPSTest.AssemblyInfo.cs
+C:\Users\Lucaz\Desktop\Programacao\Repositorio\RPSTest\RPSTest\obj\Debug\netcoreapp2.2\RPSTest.dll
+C:\Users\Lucaz\Desktop\Programacao\Repositorio\RPSTest\RPSTest\obj\Debug\netcoreapp2.2\RPSTest.pdb
+C:\Users\Lucaz\Desktop\Programacao\Repositorio\RPSTest\RPSTest\bin\Debug\netcoreapp2.2\RPSTest.deps.json
+C:\Users\Lucaz\Desktop\Programacao\Repositorio\RPSTest\RPSTest\bin\Debug\netcoreapp2.2\RPSTest.runtimeconfig.json
+C:\Users\Lucaz\Desktop\Programacao\Repositorio\RPSTest\RPSTest\bin\Debug\netcoreapp2.2\RPSTest.runtimeconfig.dev.json
+C:\Users\Lucaz\Desktop\Programacao\Repositorio\RPSTest\RPSTest\bin\Debug\netcoreapp2.2\RPSTest.dll
+C:\Users\Lucaz\Desktop\Programacao\Repositorio\RPSTest\RPSTest\bin\Debug\netcoreapp2.2\RPSTest.pdb
